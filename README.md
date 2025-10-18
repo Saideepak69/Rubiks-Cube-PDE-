@@ -77,6 +77,6 @@ The project is broken down into several files, each with a specific responsibili
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project is based on the fantastic "Coding Challenge" series by Daniel Shiffman at **The Coding Train**. You can find the original tutorial that inspired this project [on YouTube](https://youtu.be/8U2gsbNe1Uo).
